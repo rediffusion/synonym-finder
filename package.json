@@ -4,6 +4,13 @@
   "description": "finds synonyms",
   "version": "0.0.1",
   "publisher": "rediffusion",
+
+  "homepage": "https://github.com/rediffusion/synonym-finder/blob/master/README.md",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/rediffusion/synonym-finder"
+  },
+
   "engines": {
     "vscode": "^1.41.0"
   },
